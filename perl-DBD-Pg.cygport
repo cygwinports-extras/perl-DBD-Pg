@@ -2,7 +2,9 @@ CPAN_AUTHOR=turnstep
 inherit perl
 
 NAME="perl-DBD-Pg"
-VERSION=2.19.3
+VERSION=3.5.1
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="PostgreSQL driver for the Perl DBI framework"
+DESCRIPTION="DBD::Pg is a driver for the Perl DBI module to provide access to
+PostgreSQL databases."
